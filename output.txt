@@ -1,0 +1,50 @@
+Schedule:
+Group — CS201
+
+Monday
+1: Name12
+2: Name2
+3: Name3
+4: Name4
+5: ——
+6: ——
+
+Tuesday
+1: ——
+2: Name1
+3: Name11
+4: ——
+5: Name10
+6: ——
+
+Wednesday
+1: ——
+2: Name7
+3: Name6
+4: ——
+5: Name14
+6: ——
+
+Thursday
+1: ——
+2: ——
+3: Name5
+4: Name8
+5: Name15
+6: ——
+
+Friday
+1: ——
+2: ——
+3: ——
+4: ——
+5: ——
+6: ——
+
+Saturday
+1: ——
+2: ——
+3: Name13
+4: ——
+5: Name9
+6: ——
