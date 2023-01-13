@@ -11,6 +11,7 @@
 #include <fstream>
 #include <algorithm>
 #include <random>
+#include <stdlib.h>
 #include "Teacher.h"
 using namespace std;
 
