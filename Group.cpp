@@ -1799,7 +1799,7 @@ vector<vector<pair<Teacher, bool>>> Group::create_schedule() {
                                         //Поставили препода, который может вести только эту пару
                                         Saturday[current_cls] = make_pair(specific_techs[i], true);
                                         tmp_teach = specific_techs[i];
-                                        techs.erase(find(techs.begin(), techs.end(), tmp_teach));
+                                        techs.erase(find(techs.begin(), techs.end(), tmp_teach));//ogo
                                         st = true;
                                         break;
                                     }
